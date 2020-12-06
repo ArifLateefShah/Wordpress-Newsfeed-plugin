@@ -1,6 +1,3 @@
-# Wordpress-Newsfeed-plugin
-Fetch News from newsapi.org
-
 Plugin Name :  Newsfeed
 News Source :  https://newsapi.org/
 Author      : Arif Shah
